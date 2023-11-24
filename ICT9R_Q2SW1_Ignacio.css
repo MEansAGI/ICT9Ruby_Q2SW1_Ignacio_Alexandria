@@ -1,0 +1,14 @@
+#poto {
+	padding: 30px;
+	text-align: center;
+}
+
+#name {
+	color: white;
+	padding: 10px;
+	height: 70px;
+	background-color: red;
+	border: 10px solid brown;
+	text-align: center;
+	font-family: serif;
+}
